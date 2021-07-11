@@ -14,3 +14,8 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
+
+
+function clicou(){
+    alert("Depois do FlashPoint essa página não existe mais")
+}
